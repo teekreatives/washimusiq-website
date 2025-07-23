@@ -24,6 +24,7 @@ export default function Hero() {
           src="/washimusiq-hero.png"
           alt="WashiMusiq - Kenyan Afrohouse Producer"
           className="w-48 h-48 rounded-full object-cover border-4 border-gold-500 mb-6 shadow-2xl hover:scale-105 transition-transform duration-300"
+          loading="lazy"
         />
         <h1 className="text-4xl md:text-6xl font-bold text-gold-600 dark:text-gold-400 mb-4 animate-slide-up">
           WashiMusiq
@@ -50,6 +51,7 @@ export default function Hero() {
             src="/nairobi-nights-cover.png"
             alt="Nairobi Nights Cover"
             className="w-full h-48 object-cover rounded-lg mb-4 shadow-md border border-gold-400"
+            loading="lazy"
           />
           <h2 className="text-2xl font-bold text-gold-600 dark:text-gold-400 mb-2">Nairobi Nights</h2>
           <p className="text-gray-700 dark:text-zinc-300 mb-4 text-sm">Latest Release</p>

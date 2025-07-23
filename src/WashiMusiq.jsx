@@ -38,7 +38,7 @@ export default function WashiMusiq() {
         <Footer />
         <PWAUpdatePrompt />
         <InstallAppButton />
-      </main>
+    </main>
     </>
   );
 }

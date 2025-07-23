@@ -12,6 +12,8 @@ export default function Hero() {
         playsInline
         className="absolute inset-0 w-full h-full object-cover z-0"
         style={{ minHeight: '100%', minWidth: '100%' }}
+        poster="/washimusiq-hero.png"
+        preload="metadata"
       >
         <source src="/hero-bg.mp4" type="video/mp4" />
         {/* Fallback for browsers that don't support video */}

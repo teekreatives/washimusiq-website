@@ -32,7 +32,7 @@ export default function Hero() {
           WashiMusiq
         </h1>
         <p className="mt-2 max-w-2xl text-lg leading-relaxed animate-slide-up-delay text-white dark:text-white" style={{ textShadow: '0 2px 8px rgba(0,0,0,0.7), 0 1px 0 #fff' }}>
-          Kenyan Producer, Singer, and DJ shaping the future of Afrohouse, Afrotech, and Amapiano with a soulful 3-Step sound. Based in Nairobi, WashiMusiq delivers emotionally rich, rhythm-driven music built for both introspection and the <span style={{ whiteSpace: 'nowrap' }}>dance floor</span>.
+          WashiMusiq is a Kenyan producer, singer, and DJ exploring the worlds of Afrohouse, Afrotech, and Amapiano. Based in Nairobi, Kenya, he creates emotionally rich, rhythm-driven music rooted in African sound and modern electronic energy made for both the dance floor and deeper moments.
         </p>
         <div className="mt-8 flex flex-col items-center gap-2 animate-slide-up-delay-2">
           {/* Animated arrow above the button */}
